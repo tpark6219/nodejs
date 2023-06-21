@@ -33,15 +33,18 @@ const getDeploymentLogsDownload = asyncHandler(async (req, res) => {
   );
   const fileContent = content.join("\n");
 
-  fs.writeFile("output.txt", fileContent, (err) => {
+  fs.writeFile(`${req.params.id}.txt`, fileContent, (err) => {
     if (err) {
       console.error("Error writing file:", err);
     } else {
-      res.setHeader("Content-Disposition", "attachment; filename=output.txt");
+      res.setHeader(
+        "Content-Disposition",
+        `attachment; filename=${req.params.id}.txt`
+      );
       res.setHeader("Content-Type", "text/plain");
 
       // Read the file and send it as the response
-      fs.readFile("output.txt", (err, data) => {
+      fs.readFile(`${req.params.id}.txt`, (err, data) => {
         if (err) {
           res.statusCode = 500;
           res.end("Error reading file");
