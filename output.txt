@@ -1,0 +1,100 @@
+2023-06-15T11:33:07.342545000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:07.342579000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:07.776499000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:07.776592000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:07.776822000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:07.776865000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:07.776902000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:07.776923000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:07.776959000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:07.776980000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.221943000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.222039000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.222072000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.222094000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.222121000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.222135000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.222152000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.222173000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.665733000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.665832000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.665857000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.665872000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.665896000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.665917000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:08.665935000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:08.665952000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.123384000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.123466000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.123502000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.123523000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.123544000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.123557000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.123701000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.123776000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.554897000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.554982000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.564570000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.564645000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.564901000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.564941000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:09.564961000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:09.564974000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.011295000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.011391000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.011752000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.011818000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.011852000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.011890000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.011912000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.011928000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.450420000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.450499000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.450866000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.450975000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.451020000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.451040000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.451066000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.451093000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.882597000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.882690000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.894822000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.894923000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.894952000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.894966000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:10.895000000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:10.895028000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.363126000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.363217000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.363240000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.363263000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.363323000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.363345000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.363371000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.363396000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.393377000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.393463000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.393738000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.393801000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.393829000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.393854000Z: /bin/sh: 1: railway: not found-err
+2023-06-15T11:33:11.393888000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-15T11:33:11.393906000Z: /bin/sh: 1: railway: not found-err
+2023-06-20T22:07:57.047383000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-20T22:07:57.047509000Z: /bin/sh: 1: railway: not found-err
+2023-06-20T22:07:57.150015000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-20T22:07:57.150090000Z: /bin/sh: 1: railway: not found-err
+2023-06-21T15:40:17.863604000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-21T15:40:17.863744000Z: /bin/sh: 1: railway: not found-err
+2023-06-21T15:40:17.975021000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-21T15:40:17.975100000Z: /bin/sh: 1: railway: not found-err
+2023-06-21T15:46:42.790869000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-21T15:46:42.791114000Z: /bin/sh: 1: railway: not found-err
+2023-06-21T15:46:42.904958000Z: Error executing command: Error: Command failed: railway logs-err
+2023-06-21T15:46:42.905184000Z: /bin/sh: 1: railway: not found-err
+2023-06-21T15:49:14.966618000Z: npm ERR! path /app-err
+2023-06-21T15:49:14.970626000Z: npm ERR! command failed-err
+2023-06-21T15:49:14.970783000Z: npm ERR! signal SIGTERM-err
+2023-06-21T15:49:14.971328000Z: npm ERR! command sh -c -- node index.js-err
+2023-06-21T15:49:14.975406000Z: npm ERR! A complete log of this run can be found in:-err
+2023-06-21T15:49:14.975493000Z: npm ERR!     /root/.npm/_logs/2023-06-15T06_47_22_833Z-debug-0.log-err
