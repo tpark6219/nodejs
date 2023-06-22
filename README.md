@@ -23,7 +23,8 @@ The controllers files ```deploymentsController.js ``` and ```deploymentLogsContr
 1. Fork this repository (github.com/tpark6219/nodejs) to your own repository.
 2. Go to Railway.app and create a new project
 3. Select on ```Deploy from GitHub repo``` and select on the /nodejs repository
-4. In your CLI use command ```railway up``` to deploy the application and you're ready to go! Here is some documentation to help with CLI commands: https://docs.railway.app/reference/cli-api
+4. Make sure to add the variable TOKEN and an API Token in ```https://railway.app/account/tokens``` under Variables tab so the app can access the GraphQL endpoint
+5. In your CLI use command ```railway up``` to deploy the application and you're ready to go! Here is some documentation to help with CLI commands: https://docs.railway.app/reference/cli-api
 
 ![steps](https://github.com/tpark6219/nodejs/assets/7156896/25cd6f29-e739-4794-aa67-8c6bbcb2c6c8)
 
